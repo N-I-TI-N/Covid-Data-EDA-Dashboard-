@@ -1,7 +1,5 @@
 # Data Portfolio Repository
 
-![Data Portfolio](portfolio_image.jpg)
-
 Welcome to the Data Portfolio Repository! This repository showcases a collection of projects demonstrating skills and expertise in the fields of Data Analysis, Data Science, and Data Engineering. Whether you're a potential employer, collaborator, or fellow enthusiast, this portfolio provides a comprehensive overview of the work I've done in these domains.
 
 ## Table of Contents
@@ -57,6 +55,3 @@ If you have any questions, suggestions, or collaboration opportunities, feel fre
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of this license.
 
 Enjoy exploring the projects and thank you for visiting!
-
----
-**Note:** Update the placeholders (like `your-username`, `project-name`, `Your Name`, `your@email.com`, etc.) with your actual information. Customize the projects, descriptions, and structure according to your own portfolio content.
