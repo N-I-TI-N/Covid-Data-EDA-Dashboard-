@@ -8,8 +8,6 @@ Welcome to the Data Portfolio Repository! This repository showcases a collection
 
 - [About the Repository](#about-the-repository)
 - [Project Showcase](#project-showcase)
-- [Getting Started](#getting-started)
-- [Directory Structure](#directory-structure)
 - [Contact Information](#contact-information)
 - [License](#license)
 
@@ -39,49 +37,6 @@ Here's a brief overview of the projects included in this portfolio:
    Building a movie recommendation system based on collaborative filtering and matrix factorization.
 
 Each project directory contains detailed documentation, code, and any necessary datasets to reproduce the results.
-
-## Getting Started
-
-To explore the projects in this portfolio, follow these steps:
-
-1. Clone this repository using the following command:
-   ```
-   git clone https://github.com/your-username/data-portfolio.git
-   ```
-
-2. Navigate to the project directory of your choice:
-   ```
-   cd data-portfolio/project-name
-   ```
-
-3. Follow the instructions in the project's README to set up the environment and reproduce the results.
-
-## Directory Structure
-
-The repository is organized as follows:
-
-```
-data-portfolio/
-│
-├── project-1/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   ├── visualizations/
-│   ├── README.md
-│
-├── project-2/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   ├── visualizations/
-│   ├── README.md
-│
-├── ...
-│
-└── LICENSE
-```
-
 - Each `project-x` directory contains the specific project's assets, code, and documentation.
 - `data/` holds any necessary data files or links to external datasets.
 - `notebooks/` includes Jupyter notebooks or similar files with code and explanations.
@@ -92,10 +47,10 @@ data-portfolio/
 
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me:
 
-- Name: Your Name
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Portfolio Website: [Your Portfolio Website](https://www.yourportfolio.com)
+- Name: Nitin Verma
+- Email: nitinsre738@gmail.com
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nitin-verma-a43a71161/))
+- Portfolio Website: [Your Portfolio Website](paste-website-url)
 
 ## License
 
