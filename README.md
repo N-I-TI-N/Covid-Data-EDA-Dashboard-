@@ -19,20 +19,8 @@ By exploring this repository, you'll gain insights into my problem-solving skill
 
 Here's a brief overview of the projects included in this portfolio:
 
-1. **Sales Analysis Dashboard (Data Analyst)**
-   A comprehensive analysis of sales data with interactive visualizations using tools like Python and Tableau.
-
-2. **Customer Churn Prediction (Data Scientist)**
-   Predicting customer churn using machine learning algorithms, feature engineering, and model evaluation.
-
-3. **ETL Pipeline for Financial Data (Data Engineer)**
-   Design and implementation of an ETL pipeline to extract, transform, and load financial data into a database.
-
-4. **Text Sentiment Analysis (Data Scientist)**
-   Analyzing sentiment from social media data using Natural Language Processing (NLP) techniques.
-
-5. **Recommendation System (Data Scientist)**
-   Building a movie recommendation system based on collaborative filtering and matrix factorization.
+1. **COVID-19 EDA+Dashboard (Data Analyst)**
+   A comprehensive analysis of COVID-19 data using SQL Server with interactive visualizations using Tableau.
 
 Each project directory contains detailed documentation, code, and any necessary datasets to reproduce the results.
 - Each `project-x` directory contains the specific project's assets, code, and documentation.
