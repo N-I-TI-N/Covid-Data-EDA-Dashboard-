@@ -39,7 +39,6 @@ If you have any questions, suggestions, or collaboration opportunities, feel fre
 - Name: Nitin Verma
 - Email: nitinsre738@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nitin-verma-a43a71161/)
-- Portfolio Website: [Portfolio Website](paste-website-url)
 
 ## License
 
