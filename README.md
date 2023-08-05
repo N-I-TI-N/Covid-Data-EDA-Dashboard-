@@ -1,4 +1,4 @@
-# Data Portfolio Repository
+# Portfolio Projects Repository
 
 Welcome to the Data Portfolio Repository! This repository showcases a collection of projects demonstrating skills and expertise in the fields of Data Analysis, Data Science, and Data Engineering. Whether you're a potential employer, collaborator, or fellow enthusiast, this portfolio provides a comprehensive overview of the work I've done in these domains.
 
