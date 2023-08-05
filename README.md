@@ -22,6 +22,9 @@ Here's a brief overview of the projects included in this portfolio:
 1. **COVID-19 EDA+Dashboard (Data Analyst)**
    A comprehensive analysis of COVID-19 data using SQL Server with interactive visualizations using Tableau.
 
+2. **Adidas Sales Analysis Dashboard (Data Analyst)**
+   A comprehensive analysis of Adidas Sales Analysis data with interactive visualizations using Excel.   
+
 Each project directory contains detailed documentation, code, and any necessary datasets to reproduce the results.
 - Each `project-x` directory contains the specific project's assets, code, and documentation.
 - `data/` holds any necessary data files or links to external datasets.
