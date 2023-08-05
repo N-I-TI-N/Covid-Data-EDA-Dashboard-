@@ -21,8 +21,9 @@ Here's a brief overview of the projects included in this portfolio:
 
 1. **COVID-19 EDA+Dashboard (Data Analyst)**
    A comprehensive analysis of COVID-19 data using SQL Server with interactive visualizations using Tableau.
+   ***Skills Used:*** Joins, CTE's, Temp Tables, Nested Querry, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-2. **Adidas Sales Analysis Dashboard (Data Analyst)**
+3. **Adidas Sales Analysis Dashboard (Data Analyst)**
    A comprehensive analysis of Adidas Sales data with interactive visualizations using Excel.   
 
 Each project directory contains detailed documentation, code, and any necessary datasets to reproduce the results.
