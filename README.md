@@ -24,7 +24,8 @@ Here's a brief overview of the projects included in this portfolio:
    ***Skills Used:*** Joins, CTE's, Temp Tables, Nested Querry, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 3. **Adidas Sales Analysis Dashboard (Data Analyst)**
-   A comprehensive analysis of Adidas Sales data with interactive visualizations using Excel.   
+   A comprehensive analysis of Adidas Sales data with interactive visualizations using Excel.<br>
+   ***Skills Used:*** Pivot tables/slicers, Data Analysis, Custom formatting, Working with shapes, Design and colors.
 
 Each project directory contains detailed documentation, code, and any necessary datasets to reproduce the results.
 - Each `project-x` directory contains the specific project's assets, code, and documentation.
