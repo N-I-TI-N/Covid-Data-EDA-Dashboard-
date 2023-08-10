@@ -29,10 +29,6 @@ Here's a brief overview of the projects included in this portfolio:
 
 Each project directory contains detailed documentation, code, and any necessary datasets to reproduce the results.
 - Each `project-x` directory contains the specific project's assets, code, and documentation.
-- `data/` holds any necessary data files or links to external datasets.
-- `notebooks/` includes Jupyter notebooks or similar files with code and explanations.
-- `scripts/` contains relevant scripts for data processing, analysis, or engineering.
-- `visualizations/` stores images, charts, or graphs generated during analysis.
 
 ## Contact Information
 
