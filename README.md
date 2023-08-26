@@ -19,11 +19,11 @@ By exploring this repository, you'll gain insights into my problem-solving skill
 
 Here's a brief overview of the projects included in this portfolio:
 
-1. **COVID-19 EDA+Dashboard (Data Analyst)**
+1. **COVID-19 EDA+Dashboard**
    A comprehensive analysis of COVID-19 data using SQL Server with interactive visualizations using Tableau.<br>
    ***Skills Used:*** Joins, CTE's, Temp Tables, Nested Querry, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-3. **Adidas Sales Analysis Dashboard (Data Analyst)**
+2. **Adidas Sales Analysis Dashboard**
    A comprehensive analysis of Adidas Sales data with interactive visualizations using Excel.<br>
    ***Skills Used:*** Pivot tables/slicers, Data Analysis, Custom formatting, Working with shapes, Design and colors.
 
