@@ -1,0 +1,12 @@
+dash
+pandas
+numpy
+random
+faker
+scipy
+matplotlib
+statsmodels
+io
+base64
+pymongo
+plotly
