@@ -34,7 +34,7 @@ Anticipated outcomes include:
 
 This project development is completed.
 
-To deep dive into our exploratory data analysis, Simply follow this link: [click here](https://nbviewer.org/github/N-I-TI-N/PortfolioProjects/blob/main/Data_Science_Role_Recruitment/EDA%20on%20Applicant%27s%20Data.ipynb?flush_cache=true){:target="_blank"}, You'll be granted immediate access to the EDA report where you can explore our data exploration journey step by step.
+To deep dive into our exploratory data analysis, Simply follow this link: <a href="https://nbviewer.org/github/N-I-TI-N/PortfolioProjects/blob/main/Data_Science_Role_Recruitment/EDA%20on%20Applicant%27s%20Data.ipynb?flush_cache=true" target="_blank">click here</a>, You'll be granted immediate access to the EDA report where you can explore our data exploration journey step by step.
 
 To deep dive into our experiment process? Simply follow this link: [click here](https://nbviewer.org/github/N-I-TI-N/PortfolioProjects/blob/main/Data_Science_Role_Recruitment/The%20Experiment%2C%20ETL%20process%20and%20Chi-Square%20Test.ipynb?flush_cache=true){:target="_blank"}, You'll be granted immediate access to the experiment process where you can explore our experimentation journey step by step.
 
