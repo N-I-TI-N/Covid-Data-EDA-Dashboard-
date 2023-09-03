@@ -32,7 +32,10 @@ Anticipated outcomes include:
 
 ## Project Status
 
-This project development is completed. You can access the web application deployed using Render by clicking [access web application](https://job-applicants-dash-app.onrender.com).
+This project development is completed. 
+Ready to start your deep dive into our exploratory data analysis? Simply follow this link: [INSERT LINK HERE], You'll be granted immediate access to the EDA report where you can explore our data exploration journey step by step. 
+Want to deep dive into our experiment process? Simply follow this link: [INSERT LINK HERE]. You'll be granted immediate access to the experiment process where you can explore our experimentation journey step by step. 
+You can access the web application deployed using Render by clicking [access web application](https://job-applicants-dash-app.onrender.com).
 
 ## Feedback and Collaboration
 
