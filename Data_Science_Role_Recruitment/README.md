@@ -32,7 +32,7 @@ Anticipated outcomes include:
 
 ## Project Status
 
-This project is currently in development. Updates will be provided as I progress through exploratory data analysis, experimentation, web application development, and result interpretation.
+This project development is completed. You can access the web application deployed using Render by clicking [access web application](https://job-applicants-dash-app.onrender.com).
 
 ## Feedback and Collaboration
 
