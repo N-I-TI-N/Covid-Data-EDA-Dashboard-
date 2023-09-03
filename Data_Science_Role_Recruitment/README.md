@@ -32,9 +32,9 @@ Anticipated outcomes include:
 
 ## Project Status
 
-This project development is completed. 
-Ready to start your deep dive into our exploratory data analysis? Simply follow this link: [INSERT LINK HERE], You'll be granted immediate access to the EDA report where you can explore our data exploration journey step by step. 
-Want to deep dive into our experiment process? Simply follow this link: [INSERT LINK HERE]. You'll be granted immediate access to the experiment process where you can explore our experimentation journey step by step. 
+This project development is completed. <br>
+Ready to start your deep dive into our exploratory data analysis? Simply follow this link: [INSERT LINK HERE](https://nbviewer.org/github/N-I-TI-N/PortfolioProjects/blob/main/Data_Science_Role_Recruitment/EDA%20on%20Applicant%27s%20Data.ipynb?flush_cache=true), You'll be granted immediate access to the EDA report where you can explore our data exploration journey step by step.<br> 
+Want to deep dive into our experiment process? Simply follow this link: [INSERT LINK HERE](https://nbviewer.org/github/N-I-TI-N/PortfolioProjects/blob/main/Data_Science_Role_Recruitment/The%20Experiment%2C%20ETL%20process%20and%20Chi-Square%20Test.ipynb?flush_cache=true), You'll be granted immediate access to the experiment process where you can explore our experimentation journey step by step.<br> 
 You can access the web application deployed using Render by clicking [access web application](https://job-applicants-dash-app.onrender.com).
 
 ## Feedback and Collaboration
