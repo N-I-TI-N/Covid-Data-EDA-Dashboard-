@@ -10,6 +10,7 @@ cx = ConductExperiment()
 
 # Instantiaitng a dash application named "app"
 app = Dash(__name__)
+server = app.server
 
 # Creating the layout of web application
 app.layout = html.Div(
@@ -141,7 +142,13 @@ def update_results(n_clicks, days):
             ]
         )
     
-    
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
+
+
+
+
     
     
     
