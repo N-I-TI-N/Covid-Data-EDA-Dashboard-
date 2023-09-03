@@ -1,7 +1,6 @@
 dash
 pandas
 numpy
-random
 faker
 scipy
 matplotlib
