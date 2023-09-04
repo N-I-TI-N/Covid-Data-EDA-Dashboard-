@@ -19,7 +19,7 @@ By exploring this repository, you'll gain insights into my problem-solving skill
 
 Here's a brief overview of the projects included in this portfolio:
 
-1. **COVID-19 EDA+Dashboard:**
+1. **[COVID-19 EDA+Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/COVID-19(EDA%2BDashboard)):**
    - Done comprehensive analysis of COVID-19 data using SQL Server with interactive visualizations using Tableau.<br>
    ***Skills Used:*** Joins, CTE's, Temp Tables, Nested Querry, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
