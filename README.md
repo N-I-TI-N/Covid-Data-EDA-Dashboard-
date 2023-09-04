@@ -20,14 +20,17 @@ By exploring this repository, you'll gain insights into my problem-solving skill
 Here's a brief overview of the projects included in this portfolio:
 
 1. **[COVID-19 EDA+Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/COVID-19(EDA%2BDashboard)):**
-   - Done comprehensive analysis of COVID-19 data using SQL Server with interactive visualizations using Tableau.<br>
+   - Downloaded COVID-19 data from Kaggle as csv file.
+   - Imported data to SQL Server and conducted EDA on the imported data.
+   - Exported data insights from SQL Server into excel sheets and imported them to Tableau Public to create an interactive dashboard. <br>   
    ***Skills Used:*** Joins, CTE's, Temp Tables, Nested Querry, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-2. **[Adidas Sales Analysis Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/Adidas%20Sales%20(Excel%20Dashboard)):**
-   - Done comprehensive analysis of Adidas Sales data with interactive visualizations using Excel.<br>
+3. **[Adidas Sales Analysis Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/Adidas%20Sales%20(Excel%20Dashboard)):**
+   - Downloaded Adidas US Sales data from Kaggle as csv file.
+   - Done comprehensive analysis of sales data in excel by creating pivot tables and an interactive excel dashboard. <br>
    ***Skills Used:*** Pivot tables/slicers, Data Analysis, Custom formatting, Working with shapes, Design and colors.
 
-3. **[Data Science Job Recruitment](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/Data_Science_Role_Recruitment):**
+5. **[Data Science Job Recruitment](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/Data_Science_Role_Recruitment):**
    - Created synthetic data of job applicants and uploaded it to Mongodb Database.
    - Conducted EDA on the applicants data to get some usefull insights.
    - Done hypothesis testing that involved ETL process, Designing synthetic experiment, and conducting statistical analysis of results.
