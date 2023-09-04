@@ -36,7 +36,7 @@ Here's a brief overview of the projects included in this portfolio:
    - Created synthetic data of job applicants and uploaded it to Mongodb Database.
    - Conducted EDA on the applicants data to get some usefull insights.
    - Done hypothesis testing that involved ETL process, Designing synthetic experiment, and conducting statistical analysis of results.
-   - Deployed a 3-teir web dash application.
+   - Deployed a 3-teir Dash Web Application
         - Display Layer (Frontend)
         - Business Layer (Middleware)
         - Database Layer (Backend)
