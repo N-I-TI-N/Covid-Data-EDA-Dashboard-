@@ -27,8 +27,13 @@ Here's a brief overview of the projects included in this portfolio:
    A comprehensive analysis of Adidas Sales data with interactive visualizations using Excel.<br>
    ***Skills Used:*** Pivot tables/slicers, Data Analysis, Custom formatting, Working with shapes, Design and colors.
 
+3. **Data Science Job Recruitment**
+   - Created synthetic data of job applicants and uploaded it to Mongodb Database.
+   - Conducted EDA on the applicants data to get some usefull insights.
+   - Done hypothesis testing that involved ETL process, Designing synthetic experiment, and conducting statistical analysis of results.
+   - Deployed a 3-teir web dash application with interactive elements on Render.   
+
 Each project directory contains detailed documentation, code, and any necessary datasets to reproduce the results.
-- Each `project-x` directory contains the specific project's assets, code, and documentation.
 
 ## Contact Information
 
