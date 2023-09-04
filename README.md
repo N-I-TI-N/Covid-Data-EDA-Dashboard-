@@ -31,7 +31,8 @@ Here's a brief overview of the projects included in this portfolio:
    - Created synthetic data of job applicants and uploaded it to Mongodb Database.
    - Conducted EDA on the applicants data to get some usefull insights.
    - Done hypothesis testing that involved ETL process, Designing synthetic experiment, and conducting statistical analysis of results.
-   - Deployed a 3-teir web dash application with interactive elements on Render.   
+   - Deployed a 3-teir web dash application with interactive elements on Render.
+     **Skills Used:** Python, Numpy, Pandas, Matplotlib, Scipy, Dash, MongoDB, ETL   
 
 Each project directory contains detailed documentation, code, and any necessary datasets to reproduce the results.
 
