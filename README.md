@@ -24,13 +24,13 @@ Here's a brief overview of the projects included in this portfolio:
    - Imported data to SQL Server and conducted EDA on the imported data.
    - Exported data insights from SQL Server into excel sheets and imported them to Tableau Public to create an interactive dashboard.
        
-   ***Skills Used:*** Joins, CTE's, Temp Tables, Nested Querry, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+   **Skills Used:** Joins, CTE's, Temp Tables, Nested Querry, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 3. **[Adidas Sales Analysis Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/Adidas%20Sales%20(Excel%20Dashboard)):**
    - Downloaded Adidas US Sales data from Kaggle as csv file.
    - Done comprehensive analysis of sales data in excel by creating pivot tables and an interactive excel dashboard.
      
-   ***Skills Used:*** Pivot tables/slicers, Data Analysis, Custom formatting, Working with shapes, Design and colors.
+   **Skills Used:** Pivot tables/slicers, Data Analysis, Custom formatting, Working with shapes, Design and colors.
 
 5. **[Data Science Job Recruitment](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/Data_Science_Role_Recruitment):**
    - Created synthetic data of job applicants and uploaded it to Mongodb Database.
@@ -38,7 +38,7 @@ Here's a brief overview of the projects included in this portfolio:
    - Done hypothesis testing that involved ETL process, Designing synthetic experiment, and conducting statistical analysis of results.
    - Deployed a 3-teir web dash application with interactive elements on Render.
      
-     **Skills Used:** Python, Numpy, Pandas, Matplotlib, Scipy, Dash, MongoDB, ETL   
+   **Skills Used:** Python, Numpy, Pandas, Matplotlib, Scipy, Dash, MongoDB, ETL   
 
 Each project directory contains detailed documentation, code, and any necessary datasets to reproduce the results.
 
