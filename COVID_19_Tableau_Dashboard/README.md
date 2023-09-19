@@ -1,5 +1,5 @@
 # COVID-19 TABLEAU DASHBOARD
-![](https://github.com/N-I-TI-N/PortfolioProjects/blob/main/COVID-19(EDA%2BDashboard)/Covid-19%20Dashboard.png)
+![](https://github.com/N-I-TI-N/PortfolioProjects/blob/main/COVID_19_Tableau_Dashboard/Dashboard.png)
 
 ## Overview:
 The data for the project has been downloaded from Kaggle.
