@@ -11,7 +11,7 @@ Welcome to the Data Portfolio Repository! This repository showcases a collection
 
 ## About the Repository
 
-In this repository, you will find a variety of projects that showcase my abilities and knowledge in data-related roles such as Data Analyst, Data Scientist, and Data Engineer. These projects highlight my proficiency in data manipulation, analysis, visualization, machine learning, and data pipeline development. Each project is a reflection of real-world scenarios and challenges commonly encountered in the data field.
+In this repository, you will find a variety of projects that showcase my abilities and knowledge in Business Analytics. These projects highlight my proficiency in data manipulation, analysis, visualization, machine learning, and data pipeline development. Each project is a reflection of real-world scenarios and challenges commonly encountered in the data field.
 
 By exploring this repository, you'll gain insights into my problem-solving skills, technical expertise, and creativity when it comes to handling and extracting value from data.
 
