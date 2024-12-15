@@ -20,9 +20,13 @@ By exploring this repository, you'll gain insights into my problem-solving skill
 Here's a brief overview of the projects included in this portfolio:
 
 1. **[COVID-19 Tabluea Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/COVID_19_Tableau_Dashboard):**
+![](https://github.com/N-I-TI-N/PortfolioProjects/blob/main/COVID_19_Tableau_Dashboard/Dashboard.png)
+
    - Utilized Microsoft SQL Server and SSMS to conduct Exploratory Data Analysis (EDA) on COVID-19 Dataset.
    - Transformed and filtered data by using Joins, CTE's, Temp Tables, Nested Query, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types to improve reporting process.
-   - Loaded exported excel files from SSMS and visualized them with Tableau Public to present insightful information by creating an interactive Dashboard.
+   - Loaded exported excel files from SSMS and visualized them with Tableau Public to present insightful information by creating an dashboard.
+
+- [click here](https://public.tableau.com/app/profile/nitin.verma1940/viz/Covid-19Dashboard_16901531572430/Dashboard1?publish=yes) To access intercative dashboard deployed in Tableau Public .
        
    **Skills Used:** Joins, CTE's, Temp Tables, Nested Querry, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
