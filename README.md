@@ -36,9 +36,7 @@ Here's a brief overview of the projects included in this portfolio:
 ![](https://github.com/N-I-TI-N/PortfolioProjects/blob/main/Adidas_US_Sales_Dashboard/Dashboard.PNG)
 
    - Downloaded Adidas US Sales data from Kaggle.
-   - Done comprehensive analysis of sales data in excel by creating pivot tables and an interactive excel dashboard.
-
-![](https://github.com/N-I-TI-N/PortfolioProjects/blob/main/Adidas_US_Sales_Dashboard/Dashboard.PNG)
+   - Done comprehensive analysis of sales data in excel by creating pivot tables and an interactive dashboard.
 
 [click here](https://1drv.ms/x/s!AuUeZCjA6OovgWd3_9UIZVKd1Mm5?e=wIsIa7&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0) To access the interactive dashboard 
      
