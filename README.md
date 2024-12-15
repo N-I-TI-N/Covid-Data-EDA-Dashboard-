@@ -19,7 +19,7 @@ By exploring this repository, you'll gain insights into my problem-solving skill
 
 Here's a brief overview of the projects included in this portfolio:
 
-1. **[COVID-19 Tabluea Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/COVID_19_Tableau_Dashboard):**
+### 1. **[COVID-19 Tabluea Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/COVID_19_Tableau_Dashboard):**
 
 ![](https://github.com/N-I-TI-N/PortfolioProjects/blob/main/COVID_19_Tableau_Dashboard/Dashboard.png)
 
