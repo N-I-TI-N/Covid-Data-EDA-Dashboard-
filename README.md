@@ -44,9 +44,9 @@ Here's a brief overview of the projects included in this portfolio:
 
 ### 3. **[A/B Testing for DS Job Recruitment](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/Data_Science_Role_Recruitment):**
    - Created synthetic data of job applicants and uploaded it to Mongodb Database.
-   - Conducted EDA on the applicants data to get some usefull insights.
+   - Conducted EDA using python on the applicants data to get some usefull insights.
    - Done hypothesis testing that involved ETL process, Designing synthetic experiment, and conducting statistical analysis of results.
-   - Deployed a 3-teir Dash Web Application
+   - Deployed a 3-teir Dash Web Application to showcase EDA and run A/B Testing.
         - Display Layer (Frontend)
         - Business Layer (Middleware)
         - Database Layer (Backend)
