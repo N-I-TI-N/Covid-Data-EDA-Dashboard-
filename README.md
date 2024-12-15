@@ -26,7 +26,7 @@ Here's a brief overview of the projects included in this portfolio:
        
    **Skills Used:** Joins, CTE's, Temp Tables, Nested Querry, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-3. **[Adidas Sales Analysis Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/Adidas%20Sales%20(Excel%20Dashboard)):**
+3. **[Adidas Sales Analysis Excel Dashboard](https://github.com/N-I-TI-N/PortfolioProjects/tree/main/Adidas_US_Sales_Dashboard):**
    - Downloaded Adidas US Sales data from Kaggle.
    - Done comprehensive analysis of sales data in excel by creating pivot tables and an interactive excel dashboard.
      
