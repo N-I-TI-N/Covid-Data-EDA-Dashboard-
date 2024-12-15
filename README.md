@@ -49,7 +49,7 @@ Each project directory contains detailed documentation, code, and any necessary 
 
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me:
 
-- Name: Nitin Verma
+- Name: NITIN
 - Email: nitinsre738@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nitin-verma-a43a71161/)
 
